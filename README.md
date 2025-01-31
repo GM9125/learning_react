@@ -1,3 +1,1 @@
-# learning_react
-
-# Learning and practising React library of Javascript for frontend development.
+#Learning and practising React library of Javascript along with tailwindCSS framework for frontend development.
