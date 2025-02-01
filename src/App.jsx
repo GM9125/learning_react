@@ -52,12 +52,24 @@
 
 // export default App;
 
-import DigitalClock from "./DigitalClock.jsx";
+// import DigitalClock from "./DigitalClock.jsx";
+
+// function App() {
+//     return (
+//         <>
+//            <DigitalClock/>
+//         </>
+//     );
+// }
+
+// export default App;
+
+import ComponentA from "./ComponentA.jsx";
 
 function App() {
     return (
         <>
-           <DigitalClock/>
+           <ComponentA/>
         </>
     );
 }
