@@ -15,16 +15,27 @@
 //Onchange click handler practise
 
 
-import MyComponent from "./MyComponent.jsx";
+// import MyComponent from "./MyComponent.jsx";
+
+// function App() {
+//     return (
+//         <>
+//             <MyComponent/>
+//         </>
+//     );
+// }
+
+// export default App;
+
+
+import ColorPicker from "./ColorPicker.jsx";
 
 function App() {
     return (
         <>
-            <MyComponent/>
+            <ColorPicker/>
         </>
     );
 }
 
 export default App;
-
-
