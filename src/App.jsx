@@ -64,12 +64,24 @@
 
 // export default App;
 
-import ComponentA from "./ComponentA.jsx";
+// import ComponentA from "./ComponentA.jsx";
+
+// function App() {
+//     return (
+//         <>
+//            <ComponentA/>
+//         </>
+//     );
+// }
+
+// export default App;
+
+import Stopwatch from "./Stopwatch.jsx";
 
 function App() {
     return (
         <>
-           <ComponentA/>
+           <Stopwatch/>
         </>
     );
 }
