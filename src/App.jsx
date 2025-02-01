@@ -40,12 +40,24 @@
 
 // export default App;
 
-import ToDoList from "./ToDoList.jsx";
+// import ToDoList from "./ToDoList.jsx";
+
+// function App() {
+//     return (
+//         <>
+//            <ToDoList/>
+//         </>
+//     );
+// }
+
+// export default App;
+
+import DigitalClock from "./DigitalClock.jsx";
 
 function App() {
     return (
         <>
-           <ToDoList/>
+           <DigitalClock/>
         </>
     );
 }
