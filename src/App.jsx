@@ -28,12 +28,24 @@
 // export default App;
 
 
-import ColorPicker from "./ColorPicker.jsx";
+// import ColorPicker from "./ColorPicker.jsx";
+
+// function App() {
+//     return (
+//         <>
+//             <ColorPicker/>
+//         </>
+//     );
+// }
+
+// export default App;
+
+import ToDoList from "./ToDoList.jsx";
 
 function App() {
     return (
         <>
-            <ColorPicker/>
+           <ToDoList/>
         </>
     );
 }
